@@ -1,0 +1,36 @@
+.totalcontent {
+    border: 2px solid rgb(236, 230, 230);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 500px;
+    overflow-y: scroll;
+    
+}
+
+.contentcourse {
+    padding: 10px;
+    display: flex;
+}
+
+.contentcourse ul {
+    margin: 20px;
+}
+
+.contentcourse ul li {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.contentpart {
+    margin-left: 50px;
+}
+
+ul li {
+    text-align: justify;
+    text-justify: inter-word;
+}
+h5{
+    font-weight: bold;
+    color: rgb(46, 1, 8);
+}
